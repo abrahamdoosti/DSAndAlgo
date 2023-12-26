@@ -1,4 +1,4 @@
-package com.exmaple.practice;
+package com.exmaple.practice.tree;
 
 import java.util.ArrayList;
 import java.util.List;
